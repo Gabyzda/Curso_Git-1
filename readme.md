@@ -42,3 +42,4 @@ O que foi que eu aprendi aqui?
 ## Aula 9
 
 O que foi que eu aprendi aqui?
+Como é possível todo mundo mexer o mundo de todo mundo :)
